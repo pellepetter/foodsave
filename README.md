@@ -4,10 +4,6 @@ Buildin AI course project
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
-
-Final project for the Building AI course
-
 ## Summary
 
 A predictive algorithm that uses historical data for predicting the incoming demand for groceries in the coming week. This way grocery stores can optimize their supply of different products according to the expexted demand and thus reduce waste
